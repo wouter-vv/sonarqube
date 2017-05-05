@@ -1,0 +1,51 @@
+Jenkins buildserver
+ - http://10.129.35.1:8080/
+Windows server (vApp)
+ - 10.129.35.6 
+Rest webservice
+ - http://10.129.35.6:8080/
+
+https://drive.google.com/drive/folders/0B5-1m46jRiHEYUVHbnRSOWJPWk0
+https://git.ikdoeict.be/cedric.dhooge/SoftwareMethodologies.git
+
+
+-------------------------------------------------------------
+
+
+Bronnen
+
+
+vlcj library:
+ - https://github.com/caprica/vlcj/blob/master/src/test/java/uk/co/caprica/vlcj/test/streaming/StreamHttp.java
+
+
+ download vlc 64-bit
+  - https://get.videolan.org/vlc/2.2.4/win64/vlc-2.2.4-win64.exe
+
+
+ building Java projects with Maven
+  - https://spring.io/guides/gs/maven/
+
+
+ How to setup Spring Framework
+  - https://www.youtube.com/watch?v=6A7Qm59P3xc
+
+
+ Spring tutorial
+  - https://www.youtube.com/watch?v=PMX6HrdrnrY
+
+
+ Java Tutorial : How to use Vlcj to play media
+  - https://www.youtube.com/watch?v=orMgNh0o38A
+
+
+ Rest webservice
+  - https://spring.io/guides/gs/rest-service/
+
+
+ MongoDB spring tutorial
+  - https://spring.io/guides/gs/accessing-data-mongodb/
+
+
+ DataSocket example
+  - https://docs.oracle.com/javase/tutorial/networking/datagrams/clientServer.html
